@@ -1,0 +1,6 @@
+{
+  "name": "LifeConnect AI – Smart Citizen Assistance Platform",
+  "description": "An AI-powered platform that connects citizens with essential public services, emergency assistance, healthcare, government services, and real-time support through a single intelligent dashboard",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
